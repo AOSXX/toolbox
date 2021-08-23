@@ -4,7 +4,7 @@ import sys
 import datetime
 import requests
 
-from weather import search_city
+from toolbox.weather import search_city
 
 BASE_URI = "https://www.metaweather.com"
 
